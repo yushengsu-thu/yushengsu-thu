@@ -17,9 +17,8 @@ I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://github.com/thunlp
 
 ----------
 ### Contact:
-[Personal Website](https://yushengsu-thu.github.io)
-
-[E-mail](yushengsu.thu@gmail.com)
+* Personal Website: https://yushengsu-thu.github.io/
+* E-mail: yushengsu.thu@gmail.com
 
 ----------
 ### Contribution:
