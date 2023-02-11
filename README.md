@@ -16,7 +16,7 @@ I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://twitter.com/tsing
 * Framework: Efficient Training for Big Model ([BMTrain](https://github.com/OpenBMB/BMTrain))
 
 ----------
-### Contact
+### Contact:
 Personal Website: https://yushengsu-thu.github.io/
 
 Twitter: https://twitter.com/thu_yushengsu
@@ -25,7 +25,7 @@ E-mail: yushengsu.thu@gmail.com
 
 
 ----------
-### Contribution
+### Contribution:
 [![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true)](https://github.com/yushengsu-thu/)
 
 
