@@ -14,11 +14,11 @@ I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://github.com/thunlp
 
 ----------
 ### Contact:
-* Personal Website: https://yushengsu-thu.github.io/
-* E-mail: yushengsu.thu@gmail.com
+* 💬  Personal Website: https://yushengsu-thu.github.io/
+* 📫 E-mail: yushengsu.thu@gmail.com
 
 ----------
-### Contribution:
+### Github Stats:
 [![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true)](https://github.com/yushengsu-thu/)
 
 
