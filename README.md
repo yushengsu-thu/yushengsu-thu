@@ -2,7 +2,7 @@
 
 ----------
 ### About Me:
-I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
+I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://github.com/thunlp), Department of Computer Science and Technology, Tsinghua University ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ), [CV](https://www.dropbox.com/s/t5r9smtc07y0dw6/Yusheng_Su_Resume_2023_2_7.pdf?dl=0)). My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
 
 * <b>General-purpose model. (Model Learning)</b> Building powerful pre-trained foundation models. ([CokeBERT](https://github.com/thunlp/CokeBERT), [CSS-LM](https://github.com/thunlp/CSS-LM), [CPM](https://github.com/TsinghuaAI/CPM-1-Generate))
 
@@ -19,13 +19,7 @@ I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://twitter.com/tsing
 ### Contact:
 [Personal Website](https://yushengsu-thu.github.io)
 
-[Twitter](https://twitter.com/thu_yushengsu)
-
 [E-mail](yushengsu.thu@gmail.com)
-
-[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)
-
-[CV](https://www.dropbox.com/s/t5r9smtc07y0dw6/Yusheng_Su_Resume_2023_2_7.pdf?dl=0)
 
 ----------
 ### Contribution:
