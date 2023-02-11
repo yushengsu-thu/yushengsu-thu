@@ -1,10 +1,9 @@
 ## Hi there 👋
+----------
 
 ## About Me:
-
-I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/t5r9smtc07y0dw6/Yusheng_Su_Resume_2023_2_7.pdf?dl=0)
-
-My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
+----------
+I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
 
 * <b>General-purpose model. (Model Learning)</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://github.com/thunlp/CokeBERT), [CSS-LM](https://github.com/thunlp/CSS-LM), [CPM](https://github.com/TsinghuaAI/CPM-1-Generate))
 
@@ -12,13 +11,20 @@ My research spans the areas of natural language processing and machine learning.
 
 * <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure the models perform tasks in accordance with human's real intentions. ([Model Emotion](), [Removing Backdoors]())
 
-----------
+
 ## Open Source Toolkit:
-
-* Efficient Training for Big Models: [BMTrain](https://github.com/OpenBMB/BMTrain)
-
 ----------
+* Tool: Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Intrinsic-Prompt-Tuning))
+* Framework: Efficient Training for Big Model ([BMTrain](https://github.com/OpenBMB/BMTrain))
 
+## Contact
+----------
+Personal Website: https://yushengsu-thu.github.io/
+Twitter: https://twitter.com/thu_yushengsu
+E-mail: yushengsu.thu@gmail.com
+
+## Contribution
+----------
 [![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true)](https://github.com/yushengsu-thu/)
 
 
