@@ -8,7 +8,7 @@ I am Yusheng Su, a Ph.D. candidate at the [THUNLP Lab](https://github.com/thunlp
 My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
 * <b>General-purpose model (Model Learning). </b> ([CokeBERT](https://github.com/thunlp/CokeBERT), [CSS-LM](https://github.com/thunlp/CSS-LM), [CPM](https://github.com/TsinghuaAI/CPM-1-Generate))
 * <b>Computational efficiency method (Model Manipulating). </b> ([Prompt Transferability](https://github.com/thunlp/Prompt-Transferability), [IPT](https://github.com/thunlp/Intrinsic-Prompt-Tuning), [Delta Tuning Survey](https://github.com/thunlp/OpenDelta))
-* <b>AI alignment (Model Controlling). </b> ([Model Emotion](), [Removing Backdoors]())
+* <b>AI alignment (Model Controlling). </b> ([Model Emotion](https://github.com/thunlp/Model_Emotion), [Removing Backdoors]())
 
 
 ### Open Source Toolkit:
