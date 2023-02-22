@@ -14,6 +14,7 @@ My research spans the areas of natural language processing and machine learning.
 ### Open Source Toolkit:
 * Tool: Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Intrinsic-Prompt-Tuning))
 * Framework: Efficient Training for Big Model ([BMTrain](https://github.com/OpenBMB/BMTrain))
+* Organization: [Model-as-a-API](https://github.com/Model-as-a-API). Feel free to join.
 
 
 ### Contact:
