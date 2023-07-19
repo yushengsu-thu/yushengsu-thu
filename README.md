@@ -22,7 +22,7 @@ My research spans the areas of natural language processing and machine learning.
 
 
 ### Github Stats:
-[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true)](https://github.com/yushengsu-thu/)
+[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true&count-private=true)](https://github.com/yushengsu-thu/)
 
 
 
