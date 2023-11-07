@@ -3,7 +3,7 @@
 
 ### About Me:
 <!--Postdoc at CMU/MBZUAI hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/). -->
-I'm Yusheng Su, a Ph.D. from the [THUNLP Lab](https://github.com/thunlp), Department of Computer Science and Technology, Tsinghua University ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
+I'm Yusheng Su. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Research:
 My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
