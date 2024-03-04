@@ -6,15 +6,16 @@
 I'm Yusheng Su. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Research:
-My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
-* <b>General-purpose model (Model Learning). </b> ([CokeBERT](https://github.com/thunlp/CokeBERT), [CSS-LM](https://github.com/thunlp/CSS-LM), [CPM](https://github.com/TsinghuaAI/CPM-1-Generate))
-* <b>Computational efficiency method (Model Manipulating). </b> ([Prompt Transferability](https://github.com/thunlp/Prompt-Transferability), [IPT](https://github.com/thunlp/Intrinsic-Prompt-Tuning), [Delta Tuning Survey](https://github.com/thunlp/OpenDelta))
-* <b>AI alignment (Model Controlling). </b> ([Model Emotion](https://github.com/thunlp/Model_Emotion), [Tool Learning](https://arxiv.org/abs/2304.08354), [AgentVerse](https://github.com/OpenBMB/AgentVerse))
+My research spans the areas of natural language processing and machine learning, specifically focusing on large language models (LLMs). I am particularly interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them in real-world scenarios. Thus, my research broadly covers the following topics:
+1. LLM Pre-training
+2. LLM SFT/HLHF, Alignment ([Talk2](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing))
+3. LLM-based agent ([Talk3](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing))
 
-
-### Open Source Toolkit:
+### Open Source Projects:
 * Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
-* Multi-agent Environment ([AgentVerse](https://github.com/OpenBMB/AgentVerse)). Feel free to join.
+* Multiple autonomous agents ([AgentVerse](https://github.com/OpenBMB/AgentVerse)). Feel free to join.
+* Single autonomous agent ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev))
+* Tool Learning ([BMTools](https://github.com/OpenBMB/BMTools))
 
 
 ### Contact:
