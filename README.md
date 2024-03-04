@@ -14,7 +14,7 @@ My research spans the areas of natural language processing and machine learning,
 ### Open Source Projects:
 * Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
 * Multiple autonomous agents ([AgentVerse](https://github.com/OpenBMB/AgentVerse)). Feel free to join.
-* Single autonomous agent ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev))
+* Single autonomous agent, code agent ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev))
 * Tool Learning ([BMTools](https://github.com/OpenBMB/BMTools))
 
 
