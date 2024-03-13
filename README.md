@@ -2,7 +2,6 @@
 
 
 ### About Me:
-<!--Postdoc at CMU/MBZUAI hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/). -->
 I'm Yusheng Su. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Research:
@@ -22,10 +21,13 @@ My research spans the areas of natural language processing and machine learning,
 * 💬  Personal Website: https://yushengsu-thu.github.io/
 * 📫 E-mail: yushengsu.thu@gmail.com
 
-<!--
+
 ### Github Stats:
+<!--
 [![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true&count-private=true)](https://github.com/yushengsu-thu/)
 -->
+[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&hide=stars&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/yushengsu-thu/)
+
 
 
 
