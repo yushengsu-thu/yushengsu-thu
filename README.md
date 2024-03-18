@@ -2,7 +2,7 @@
 
 
 ### About Me:
-I'm Yusheng Su. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
+I'm Yusheng (Ethan) Su. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Research:
 My research spans the areas of natural language processing and machine learning, specifically focusing on large language models (LLMs). I am particularly interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them in real-world scenarios. Thus, my research broadly covers the following topics:
