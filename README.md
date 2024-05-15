@@ -2,13 +2,10 @@
 
 
 ### About Me:
-I'm Yusheng (Ethan) Su. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
+I'm Yu-Sheng (Ethan) Su. An LLM researcher and engineer. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Research:
-My research spans the areas of natural language processing and machine learning, specifically focusing on large language models (LLMs). I am particularly interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them in real-world scenarios. Thus, my research broadly covers the following topics:
-1. LLM Pre-training
-2. LLM SFT/HLHF, Alignment ([Talk2](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing))
-3. LLM-based agent ([Talk3](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing))
+My research spans the areas of natural language processing and machine learning, specifically focusing on large language models (LLMs).
 
 ### Open Source Projects:
 * Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
@@ -18,7 +15,7 @@ My research spans the areas of natural language processing and machine learning,
 
 
 ### Contact:
-* 💬  Personal Website: https://yushengsu-thu.github.io/
+* 💬 Personal Website: https://yushengsu-thu.github.io/
 * 📫 E-mail: yushengsu.thu@gmail.com
 
 
