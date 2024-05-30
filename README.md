@@ -5,7 +5,7 @@
 I'm Yu-Sheng (Ethan) Su. An LLM researcher and engineer. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Research:
-My research spans the areas of natural language processing and machine learning, specifically focusing on large language models (LLMs).
+Building a model toward AGI
 
 ### Open Source Projects:
 * Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
