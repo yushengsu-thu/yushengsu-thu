@@ -1,9 +1,9 @@
 
 ### About Me:
-I'm Yu-Sheng (Ethan) Su. An LLM researcher and engineer. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
+* I'm Yu-Sheng (Ethan) Su. An LLM researcher and engineer. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Research:
-Building a model toward AGI
+* Building a model toward AGI
 
 ### Open Source Projects:
 * Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
