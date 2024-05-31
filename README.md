@@ -15,13 +15,14 @@
 * 💬 Personal Website: https://yushengsu-thu.github.io/
 * 📫 E-mail: yushengsu.thu@gmail.com
 
+<!--
 ### Github Stats:
+[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&hide=stars&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/yushengsu-thu/)
+-->
+
 <!--
 [![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true&count-private=true)](https://github.com/yushengsu-thu/)
 -->
-[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&hide=stars&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/yushengsu-thu/)
-
-
 
 
 
