@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 ### About Me:
 I'm Yu-Sheng (Ethan) Su. An LLM researcher and engineer. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
@@ -13,11 +11,9 @@ Building a model toward AGI
 * Single autonomous agent, code agent ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev))
 * Tool Learning ([BMTools](https://github.com/OpenBMB/BMTools))
 
-
 ### Contact:
 * 💬 Personal Website: https://yushengsu-thu.github.io/
 * 📫 E-mail: yushengsu.thu@gmail.com
-
 
 ### Github Stats:
 <!--
