@@ -3,7 +3,7 @@
 * An LLM researcher and engineer. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Open Source Projects:
-* Prompt Transfer ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
+* Efficient training ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
 * Multiple autonomous agents ([AgentVerse](https://github.com/OpenBMB/AgentVerse)). Feel free to join.
 * Single autonomous agent, code agent ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev))
 * Tool Learning ([BMTools](https://github.com/OpenBMB/BMTools))
