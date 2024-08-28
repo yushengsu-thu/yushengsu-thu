@@ -3,7 +3,7 @@ My research goal is to develop models that progress toward achieving AGI [Google
 
 ### Open Source Projects: (32K+ stars)
 * Efficient training ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
-* Agent ([AgentVerse](https://github.com/OpenBMB/AgentVerse)) ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev)) ([BMTools](https://github.com/OpenBMB/BMTools))
+* Agent ([AgentVerse](https://github.com/OpenBMB/AgentVerse)) ([XAgent](https://github.com/OpenBMB/XAgent)) ([ChatDev](https://github.com/OpenBMB/ChatDev)) ([BMTools](https://github.com/OpenBMB/BMTools))
 
 ### Contact:
 * 💬 Personal Website: https://yushengsu-thu.github.io/
