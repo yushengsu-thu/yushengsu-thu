@@ -1,5 +1,4 @@
-### About Me:
-LLM #Researcher #Engineer 
+### About Me (LLM #Researcher #Engineer):
 My research goal is to develop models that progress toward achieving AGI [Google Scholar] [GitHub]. I am currently focusing on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architecture, and (3) optimizing training efficiency. By pursuing these objectives, I aim to break through the boundaries of the existing state-of-the-art model capabilities and facilitate its rapid iterative development.([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Open Source Projects: (32K+ stars)
