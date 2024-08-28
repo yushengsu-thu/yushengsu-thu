@@ -1,12 +1,10 @@
 ### About Me:
-* Goal: Building a model toward AGI
-* An LLM researcher and engineer. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
+LLM #Researcher #Engineer 
+My research goal is to develop models that progress toward achieving AGI [Google Scholar] [GitHub]. I am currently focusing on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architecture, and (3) optimizing training efficiency. By pursuing these objectives, I aim to break through the boundaries of the existing state-of-the-art model capabilities and facilitate its rapid iterative development.([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
-### Open Source Projects:
+### Open Source Projects: (32K+ stars)
 * Efficient training ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
-* Multiple autonomous agents ([AgentVerse](https://github.com/OpenBMB/AgentVerse)). Feel free to join.
-* Single autonomous agent, code agent ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev))
-* Tool Learning ([BMTools](https://github.com/OpenBMB/BMTools))
+* Agent ([AgentVerse](https://github.com/OpenBMB/AgentVerse)) ([XAgent](https://github.com/OpenBMB/XAgent), [ChatDev](https://github.com/OpenBMB/ChatDev)) ([BMTools](https://github.com/OpenBMB/BMTools))
 
 ### Contact:
 * 💬 Personal Website: https://yushengsu-thu.github.io/
