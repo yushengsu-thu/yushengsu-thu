@@ -1,5 +1,5 @@
 ### About Me (LLM #Researcher #Engineer):
-My research goal is to develop models that progress toward achieving AGI. I am currently focusing on three key areas: (1) scaling data volume and quality, (2) enhancing the robustness of model architecture, and (3) optimizing training efficiency. By pursuing these objectives, I aim to break through the boundaries of the existing state-of-the-art model capabilities and facilitate its rapid iterative development. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
+My primary work and research focus on advancing models toward achieving AGI. Thus, I concentrate on the following key areas: (1) scaling pre-training and post-training frameworks, (2) improving efficiency, and (3) designing inference/agent engines to facilitate the rapid iterative development of foundation models. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Open Source Projects: 
 * Efficient training ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
