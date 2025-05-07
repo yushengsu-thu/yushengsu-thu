@@ -11,7 +11,7 @@ My primary work and research focus on advancing models toward achieving AGI. Thu
 
 
 ### Github Stats:
-[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&hide=stars&show=prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/yushengsu-thu/)
+[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&hide=stars&show=include_all_commits,count_private,prs_merged_percentage&rank_icon=github)](https://github.com/yushengsu-thu/)
 
 
 <!--
