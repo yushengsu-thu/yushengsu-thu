@@ -3,7 +3,7 @@ My primary work and research focus on advancing models toward achieving AGI. Thu
 
 ### Open Source Projects: 
 * Efficient training ([verl](https://github.com/yushengsu-thu/verl)-ROCm version) ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
-* Agent ([AgentVerse](https://github.com/OpenBMB/AgentVerse)) ([XAgent](https://github.com/OpenBMB/XAgent)) ([ChatDev](https://github.com/OpenBMB/ChatDev)) ([BMTools](https://github.com/OpenBMB/BMTools))
+* Agent ([AgentVerse](https://github.com/OpenBMB/AgentVerse)) ([XAgent](https://github.com/OpenBMB/XAgent)) ([ChatDev](https://github.com/OpenBMB/ChatDev)) <!--([BMTools](https://github.com/OpenBMB/BMTools))-->
 
 ### Contact:
 * 💬 Personal Website: https://yushengsu-thu.github.io/
