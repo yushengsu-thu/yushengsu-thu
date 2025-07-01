@@ -2,8 +2,8 @@
 My primary work and research focus on advancing models toward achieving AGI. Thus, I concentrate on the following key areas: (1) scaling pre-training and post-training frameworks, (2) improving efficiency, and (3) designing inference/agent engines to facilitate the rapid iterative development of foundation models. ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Open Source Projects: 
-* Efficient training ([verl](https://github.com/yushengsu-thu/verl)-ROCm version) ([Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability))
-* Agent ([AgentVerse](https://github.com/OpenBMB/AgentVerse)) ([XAgent](https://github.com/OpenBMB/XAgent)) ([ChatDev](https://github.com/OpenBMB/ChatDev)) <!--([BMTools](https://github.com/OpenBMB/BMTools))-->
+* Efficient training: [slime-ROCm version](https://github.com/yushengsu-thu/slime), [verl-ROCm version](https://github.com/yushengsu-thu/verl), [Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability)
+* Agent: [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory), [AgentVerse](https://github.com/OpenBMB/AgentVerse), [ChatDev](https://github.com/OpenBMB/ChatDev) <!--([BMTools](https://github.com/OpenBMB/BMTools))-->
 
 ### Contact:
 * 💬 Personal Website: https://yushengsu-thu.github.io/
