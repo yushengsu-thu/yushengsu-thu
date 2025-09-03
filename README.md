@@ -1,12 +1,12 @@
 ### About Me (LLM #Researcher #Engineer):
 My primary work and research focus on 
-(1) RL: Design better architectures and algorithms to conduct efficient/effective RL training
-(2) Framework: Support pre-/post-training workflows, scale up training, and improve performance. 
-(2) Kernel: Optimize GPU memory utilization
+* RL: Design better architectures and algorithms to conduct efficient/effective RL training
+* Framework: Support pre-/post-training workflows, scale up training, and improve performance.
+* Kernel: Optimize GPU memory utilization
 ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
 
 ### Working on open-source Projects: 
-* RL: [slime-ROCm version](https://github.com/yushengsu-thu/slime), [verl-ROCm version](https://github.com/yushengsu-thu/verl)
+* RL and Framework: [slime-ROCm version](https://github.com/yushengsu-thu/slime), [verl-ROCm version](https://github.com/yushengsu-thu/verl)
 * Kernel: [torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver)
 * (Public archive): [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory), [AgentVerse](https://github.com/OpenBMB/AgentVerse), [ChatDev](https://github.com/OpenBMB/ChatDev) <!--([BMTools](https://github.com/OpenBMB/BMTools))-->, [Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability)
 
