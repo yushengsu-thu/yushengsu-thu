@@ -1,9 +1,9 @@
-### About Me (LLM #Researcher #Engineer):
+### About Me (LLM #Researcher #Engineer) ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)):
 My primary work and research focus on 
 * RL: Design better architectures and algorithms to conduct efficient/effective RL training
-* Framework: Support pre-/post-training workflows, scale up training, and improve performance.
+* Framework: Support pre-/post-training workflows, scale up training, and improve performance
 * Kernel: Optimize GPU memory utilization
-([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)). 
+ 
 
 ### Working on open-source Projects: 
 * RL and Framework: [slime-ROCm version](https://github.com/yushengsu-thu/slime), [verl-ROCm version](https://github.com/yushengsu-thu/verl)
