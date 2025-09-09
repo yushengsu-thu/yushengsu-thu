@@ -1,4 +1,4 @@
-### About Me (LLM #Researcher #Engineer) ([Personal Website](https://yushengsu-thu.github.io), [Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)):
+### About Me
 My primary work and research focus on 
 * RL: Design better architectures and algorithms to conduct efficient/effective RL training
 * Framework: Support pre-/post-training workflows, scale up training, and improve performance
@@ -14,6 +14,7 @@ My primary work and research focus on
 
 ### Contact:
 * 💬 Personal Website: https://yushengsu-thu.github.io/
+* Google Scholar: https://scholar.google.com/citations?user=xwy6Va4AAAAJ
 * 📫 E-mail: yushengsu.thu@gmail.com
 
 
