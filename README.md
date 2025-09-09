@@ -6,7 +6,7 @@ My primary work and research focus on
  
 
 ### Working on open-source Projects: 
-* RL and Framework: [slime-ROCm version](https://github.com/yushengsu-thu/slime), [verl-ROCm version](https://github.com/yushengsu-thu/verl)
+* RL or Framework: [slime-ROCm version](https://github.com/yushengsu-thu/slime), [verl-ROCm version](https://github.com/yushengsu-thu/verl), [SGLang](https://github.com/sgl-project/sglang)
 * Kernel: [torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver)
 * (Public archive): [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory), [AgentVerse](https://github.com/OpenBMB/AgentVerse), [ChatDev](https://github.com/OpenBMB/ChatDev) <!--([BMTools](https://github.com/OpenBMB/BMTools))-->, [Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability)
 
