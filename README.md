@@ -21,6 +21,9 @@ My primary work and research focus on
 ### Github Stats:
 [![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&hide=stars&show=include_all_commits,count_private,prs_merged_percentage&rank_icon=github)](https://github.com/yushengsu-thu/)
 
+[![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&hide=stars&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)](https://github.com/yushengsu-thu/)
+
+
 
 <!--
 [![yusheng's github stats](https://github-readme-stats.vercel.app/api?username=yushengsu-thu&show_icons=true&count-private=true)](https://github.com/yushengsu-thu/)
