@@ -1,14 +1,20 @@
 ### About Me
+
+Learning in LLMs and RL Frameworks
+
+<!--
 My primary work and research focus on 
 * RL: Design better architectures and algorithms to conduct efficient/effective RL training
 * Framework: Support pre-/post-training workflows, scale up training, and improve performance
 * GPU: Optimize GPU memory utilization
- 
+-->
 
+<!--
 ### Working on open-source Projects: 
 * RL or Framework: [slime-ROCm version](https://github.com/yushengsu-thu/slime), [verl-ROCm version](https://github.com/yushengsu-thu/verl), [SGLang](https://github.com/sgl-project/sglang)
 * GPU: [torch_memory_saver](https://github.com/fzyzcjy/torch_memory_saver)
-* (Public archive): [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory), [AgentVerse](https://github.com/OpenBMB/AgentVerse), [ChatDev](https://github.com/OpenBMB/ChatDev) <!--([BMTools](https://github.com/OpenBMB/BMTools))-->, [Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability)
+* (Public archive): [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory), [AgentVerse](https://github.com/OpenBMB/AgentVerse), [ChatDev](https://github.com/OpenBMB/ChatDev) 
+-->
 
 <!-- Framework: [Prompt-Transferability](https://github.com/thunlp/Prompt-Transferability) -->
 
