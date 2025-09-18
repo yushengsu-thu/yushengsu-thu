@@ -1,6 +1,6 @@
 ### About Me
 
-Learning in LLMs and RL Frameworks
+Learning in LLMs and MLsys, recently focused on RL training
 
 <!--
 My primary work and research focus on 
